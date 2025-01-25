@@ -1,6 +1,6 @@
 # OpenGL Maze Game
 
-This project is an OpenGL-based maze game written in C. The game involves rendering a 3D maze with cubes, textures, and basic animations using OpenGL and GLFW.
+This project is very basic OpenGL-based rendering program written in C. The program involves rendering a 3D randomly generated maze with cubes, textures and basic lighting using GLFW, GLEW and GLM. The camera has basic movement for viewing the maze at different angles.  It a good template if you wish to build a 3d game from scratch using C and OpenGL.
 
 ## Prerequisites
 
